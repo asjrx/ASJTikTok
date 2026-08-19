@@ -14,6 +14,8 @@ Add the source in Sileo, Zebra, Cydia or Installer:
 https://asjrx.github.io/
 ```
 
+[**ASJ Tweaks on Telegram**](https://t.me/ASJTweaks) — new tweaks and update notes
+
 </div>
 
 ---
