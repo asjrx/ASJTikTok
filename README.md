@@ -6,6 +6,8 @@
 
 **Privacy, download and playback options for TikTok — without changing how the app looks.**
 
+<sub>English and Arabic</sub>
+
 Add the source in Sileo, Zebra, Cydia or Installer:
 
 ```
@@ -110,6 +112,8 @@ The three privacy switches are built to work **one way only** — you keep seein
 - Saved stories are collected in their own screen
 
 ### Extras
+
+**Arabic and English** — the panel follows TikTok's own language, so an Arabic install gets Arabic screens without setting anything. A Language row lets you override it either way, and the layout mirrors with the text: the arrows turn, the rows read from the right, and the badge on a profile says يتابعك.
 
 **Clear Display** — one tap hides the entire interface: buttons, captions, tab bars, everything. The video plays clean, and a small button brings it all back. Useful for actually looking at a video, or for a screenshot without the clutter.
 
