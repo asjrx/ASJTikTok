@@ -141,7 +141,15 @@ Add the source above, or download a package from [Releases](../../releases) and 
 
 Sileo picks the right architecture on its own; roothide is a separate entry.
 
-### Not jailbroken
+### TrollStore
+
+Fully supported, with a build of its own that keeps TikTok's own entitlements and all nine app extensions intact.
+
+**[asjrx.github.io/trollstore](https://asjrx.github.io/trollstore)** — iOS 14.0–16.6.1, and 17.0 on some devices.
+
+One link: on an iPhone with TrollStore it hands the file straight over, anywhere else it just downloads.
+
+### Not jailbroken, no TrollStore
 
 Download `ASJTikTok.dylib` from [Releases](../../releases) and inject it into your own copy of TikTok with Sideloadly or eSign, then sign and install.
 
@@ -152,7 +160,7 @@ Download `ASJTikTok.dylib` from [Releases](../../releases) and inject it into yo
 
 ## Notes
 
-- Built against TikTok 46.3.0, arm64 and arm64e
+- Built against TikTok 46.4.0, arm64 and arm64e
 - Screenshots are from a real install, not mockups
 
 <div align="center"><sub>by <a href="https://github.com/asjrx">ASJRX</a></sub></div>
