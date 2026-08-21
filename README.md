@@ -160,7 +160,7 @@ Download `ASJTikTok.dylib` from [Releases](../../releases) and inject it into yo
 
 ## Notes
 
-- Built against TikTok 46.4.0, arm64 and arm64e
+- arm64 and arm64e
 - Screenshots are from a real install, not mockups
 
 <div align="center"><sub>by <a href="https://github.com/asjrx">ASJRX</a></sub></div>
