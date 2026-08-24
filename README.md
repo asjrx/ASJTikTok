@@ -22,7 +22,7 @@ https://asjrx.github.io/
 
 ## Where it lives
 
-Everything is off after a fresh install — turn on only what you want. Two ways in: a button inside your profile menu, and a row inside TikTok's own Settings.
+Two ways in: a button inside your profile menu, and a row inside TikTok's own Settings.
 
 <p align="center">
   <img src="screenshots/entry.png" width="31%" alt="The button in the profile menu">
