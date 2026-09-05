@@ -39,7 +39,7 @@ The button on the right of any video opens the save menu: **Save video**, **Save
 ### Feed
 <img src="screenshots/feed.png" width="30%" align="right" alt="Feed settings">
 
-- **Content country** — watch another region's For You
+- **Content country** — tell TikTok you are in another region
 - **Remove ads**
 - **Skip suggested accounts**
 - **Hide LIVE**
@@ -85,9 +85,9 @@ The three privacy switches are built to work **one way only** — you keep seein
 
 **Anonymous viewing** — you can open any profile and no entry is added to their visitor list. The view is never reported, so there is nothing for them to see later either.
 
-**Hide my story views** — watch a story and your name does not join the viewer list.
+**Hide my story views** — watch a story and your name does not join the viewer list, even after you leave it. A tick marks it seen for you alone.
 
-**Save stories** — every story you open is kept on your device as you saw it. Stories expire after a day and can be deleted by their owner; the copy you kept does not. They collect in their own screen inside the tweak, searchable by account.
+**Save stories** — every story you open is kept on your device as you saw it. Stories expire after a day and can be deleted by their owner; the copy you kept does not. They collect in their own screen inside the tweak, searchable by account, with a storage screen that shows where the space is going.
 
 **Show "Follows you"** — the badge TikTok shows on some profiles and not others, shown consistently.
 
@@ -111,7 +111,7 @@ The three privacy switches are built to work **one way only** — you keep seein
 - **Auto like button** for LIVE — draggable, with a count limit
 - **Remove watermark** and **clean copied links**
 - **Save profile picture**, **copy username**, **copy bio**
-- Saved stories are collected in their own screen
+- Saved stories are collected in their own screen, with storage shown per account
 
 ### Extras
 
@@ -119,7 +119,7 @@ The three privacy switches are built to work **one way only** — you keep seein
 
 **Clear Display** — one tap hides the entire interface: buttons, captions, tab bars, everything. The video plays clean, and a small button brings it all back. Useful for actually looking at a video, or for a screenshot without the clutter.
 
-**Content country** — the For You feed follows a region you pick instead of where you are.
+**Content country** — pick a country and TikTok is told you are there: carrier, system region, timezone and app region all follow it.
 
 **Remove watermark** — saved videos come without the TikTok watermark burned into the corner.
 
