@@ -22,10 +22,10 @@ https://asjrx.github.io/
 
 ## Where it lives
 
-Two ways in: a button inside your profile menu, and a row inside TikTok's own Settings.
+Two ways in: a row inside your profile menu, under ASJ tools, and a row inside TikTok's own Settings.
 
 <p align="center">
-  <img src="screenshots/entry.png" width="31%" alt="The button in the profile menu">
+  <img src="screenshots/entry.png" width="31%" alt="The row in the profile menu">
   <img src="screenshots/settings.png" width="31%" alt="The settings screen">
   <img src="screenshots/menu.png" width="31%" alt="The save menu on a video">
 </p>
