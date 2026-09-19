@@ -30,7 +30,7 @@ Two ways in: a row inside your profile menu, under ASJ tools, and a row inside T
   <img src="screenshots/menu.png" width="31%" alt="The save menu on a video">
 </p>
 
-The button on the right of any video opens the save menu: **Save video**, **Save audio**, **Save profile picture**, **Copy username**, **Copy introduction**, **Clear display** and **Copy video information**. On a photo post it saves the whole slideshow instead.
+The button on the right of any video opens the save menu: **Save video**, **Save audio**, **Save profile picture**, **Copy username**, **Copy introduction**, **Clear display** and **Copy video information**. On a photo post it saves the whole slideshow instead. The same options also sit in TikTok's own long-press sheet, under an ASJTikTok heading.
 
 ---
 
@@ -117,7 +117,7 @@ The three privacy switches are built to work **one way only** — you keep seein
 
 **53 languages** — every language TikTok itself ships in. The panel follows TikTok's own language, so an Arabic install gets Arabic screens without setting anything, and a Language row lets you override it. Right-to-left languages mirror with the text: the arrows turn, the rows read from the right, and the badge on a profile says يتابعك.
 
-**Clear Display** — one tap hides the entire interface: buttons, captions, tab bars, everything. The video plays clean, and a small button brings it all back. Useful for actually looking at a video, or for a screenshot without the clutter.
+**Clear Display** — one tap hides the entire interface: buttons, captions, tab bars, everything. The video plays clean, and a small button brings it all back. Useful for actually looking at a video, or for a screenshot without the clutter. A switch in Feed settings decides whether the bottom bar goes down with the rest.
 
 **Content country** — pick a country and TikTok is told you are there: carrier, system region, timezone and app region all follow it.
 
