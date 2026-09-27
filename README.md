@@ -16,6 +16,8 @@ https://apt.ahmadrashed.com
 
 Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign · `https://altstore.ahmadrashed.com` in AltStore or SideStore
 
+[**ahmadrashed.com**](https://ahmadrashed.com) — the official website
+
 [**ASJ Tweaks on Telegram**](https://t.me/ASJTweaks) — new tweaks and update notes
 
 </div>
